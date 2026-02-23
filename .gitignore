@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.DS_Store
+SESD-Project/
+make_commits.py
+make_commits_real.py
